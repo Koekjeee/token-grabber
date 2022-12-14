@@ -34,6 +34,8 @@
 ♦ Screenshot
 
 =============================
+![image](https://user-images.githubusercontent.com/116896483/207687623-73ed11c7-8744-4276-a19e-79e056a7f10b.png)
+=============================
 
 💠 **Discord Info** 💠
 
