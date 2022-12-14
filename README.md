@@ -1,6 +1,6 @@
 =============================
 
-_System info_
+**System info**
 
 User
 
@@ -22,7 +22,7 @@ Screenshot
 
 =============================
 
-_Discord Info_
+**Discord Info**
 
 Token
 
